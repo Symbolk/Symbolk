@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+- About me: Ph.D. candidate in Peking University, China
+
+![](https://github.com/Symbolk/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Symbolk/github-stats/blob/master/generated/languages.svg)
+
 <!--
 **Symbolk/Symbolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
