@@ -1,13 +1,13 @@
 ### Hi There 👋
 
 #### About Me 🤔 
-- Ph.D. candidate in Peking University, China
-- On the way towards a full stack developer
+- Ph.D. candidate in Peking University, China.
+- On the way towards a full stack developer & software engineering researcher.
 
 #### About Code 🔭 
 
-- Software&Language Engineering Tools and Models
-- To boost devloper productivitiy in Collaborative Development
+- Software&Language Engineering, Tools and Models.
+- Boost devlopers&engineers' productivitiy in Collaborative Development!
 
 ![](https://github.com/Symbolk/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Symbolk/github-stats/blob/master/generated/languages.svg)
