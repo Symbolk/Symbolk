@@ -2,7 +2,8 @@
 
 #### About Me 🤔 
 <!-- - Ph.D. candidate in Peking University, China. -->
-- On the way towards a full stack developer & software engineering researcher.
+- On the way towards a `(almost) full stack` developer & software engineering researcher.
+- Happily coding!
 
 #### Research Interests 🎓
 - Software&Language Engineering
@@ -15,13 +16,17 @@
 - Python
 - JavaScript/TypeScript
 
-#### Engineer Products 🔭 
+#### Working Projects 🔭 
 > Tools and workflows to boost developers' productivitiy in a collaborative team&community!
 
-- **[IntelliMerge]**: A graph-based refactoring-aware semi-structured merging tool for Java.
-- **[SmartCommit]**: A cross-platform assistant to lead developers to follow best practices of task-oriented commits.
-- **[CrowdJigsaw]**: A web-based framework for collectively solving problems with giant solution space
+- **[Code2Graph]**: A converter from source code to graph format: `(ideally) language-agnostic`, `modularized` and `extensible`.
+<!-- - **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts: `interactively` and `systematically`. -->
+- **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
+- **[SmartCommit]**: An assistant for Java developers to commit changes: `task-oriented best practice`, `graph-based` and `cross-platform`.
+- **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph construction): `web-based`, `collaborative`, and `fun`.
 
+[Code2Graph]: https://github.com/Symbolk/Code2Graph
+<!-- [SoManyConflicts]: https://github.com/Symbolk/somanyconflicts -->
 [IntelliMerge]: https://github.com/Symbolk/IntelliMerge
 [SmartCommit]: https://github.com/Symbolk/SmartCommit
 [CrowdJigsaw]: https://github.com/Symbolk/CrowdJigsaw
