@@ -1,13 +1,25 @@
 ### Hi There 👋
 
 #### About Me 🤔 
-- Ph.D. candidate in Peking University, China.
+<!-- - Ph.D. candidate in Peking University, China. -->
 - On the way towards a full stack developer & software engineering researcher.
 
-#### About Code 🔭 
+#### Research Interests 🎓
+- Software&Language Engineering
+- Program&Code Analysis
+- Software&Project Architecture
+- Data&Learning Science 
 
-- Software&Language Engineering, Tools and Models.
-- Boost devlopers&engineers' productivitiy in Collaborative Development!
+#### Engineer Products 🔭 
+> Tools and workflows to boost developers' productivitiy in a collaborative team&community!
+
+- **[IntelliMerge]**: A graph-based refactoring-aware semi-structured merging tool for Java.
+- **[SmartCommit]**: A cross-platform assistant to lead developers to follow best practices of task-oriented commits.
+- **[CrowdJigsaw]**: A web-based framework for collectively solving problems with giant solution space
+
+[IntelliMerge]: https://github.com/Symbolk/IntelliMerge
+[SmartCommit]: https://github.com/Symbolk/SmartCommit
+[CrowdJigsaw]: https://github.com/Symbolk/CrowdJigsaw
 
 ![](https://github.com/Symbolk/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Symbolk/github-stats/blob/master/generated/languages.svg)
