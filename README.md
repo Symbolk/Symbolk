@@ -10,6 +10,11 @@
 - Software&Project Architecture
 - Data&Learning Science 
 
+#### Programming Skills 💻
+- Java
+- Python
+- JavaScript/TypeScript
+
 #### Engineer Products 🔭 
 > Tools and workflows to boost developers' productivitiy in a collaborative team&community!
 
