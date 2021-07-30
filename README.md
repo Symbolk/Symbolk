@@ -2,7 +2,7 @@
 
 #### About Me 🤔 
 <!-- - Ph.D. candidate in Peking University, China. -->
-- Ph.D. candidate
+- Ph.D. candidate, Peking University
 - On the way towards a `(almost) full stack` developer & software engineering researcher.
 
 #### Research Interests 🎓
