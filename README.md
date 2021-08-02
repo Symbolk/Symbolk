@@ -1,8 +1,7 @@
 ### Hi There 👋
 
 #### About Me 🤔 
-<!-- - Ph.D. candidate in Peking University, China. -->
-- Ph.D. candidate, Peking University
+- Ph.D. candidate, Peking University, PR China
 - On the way towards a `(almost) full stack` developer & software engineering researcher.
 
 #### Research Interests 🎓
@@ -11,19 +10,19 @@
 - Software&Project Architecture
 - Data&Learning Science 
 
-#### Programming Skills 💻
+#### Technical Stack 💻
 - Java
 - Python
 - JavaScript/TypeScript
 
-#### Working Projects 🔭 
+#### Projects & Publications 🔭 
 > Tools and workflows to boost developers' productivitiy in a collaborative team&community!
 
-- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts: `interactively` and `systematically`.
-- **[Code2Graph]**: A converter from source code to graph format: `(ideally) language-agnostic`, `modularized` and `extensible`.
-- **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
-- **[SmartCommit]**: An assistant to commit changes decently for Java: `cohesive and foucsed`, `graph-based` and `cross-platform`.
-- **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph construction): `collaborative`, and `fun`.
+- **[SoManyConflicts]** (ASE'21): A VSCode extension to resolve multiple merge conflicts `interactively` and `systematically`.
+- **[Code2Graph]** (ICSME'21): A converter from source code to graph format that is `language-agnostic` and `extensible`.
+- **[SmartCommit]** (FSE'21): An assistant to cohesively commit changes for Java based on `partitioning on code-change-graph`.
+- **[IntelliMerge]** (OOPSLA'19): A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
+- **[CrowdJigsaw]** (ScienceChina'19): A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
 
 [Code2Graph]: https://github.com/Symbolk/Code2Graph
 [SoManyConflicts]: https://github.com/Symbolk/somanyconflicts
