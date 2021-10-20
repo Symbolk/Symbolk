@@ -15,7 +15,8 @@
 - Python
 - JavaScript/TypeScript
 
-#### Projects & Publications 🔭 
+#### Projects 🔭 
+
 > Tools and workflows to boost developers' productivity in a collaborative team & community!
 
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
