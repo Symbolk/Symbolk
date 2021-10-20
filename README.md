@@ -16,13 +16,13 @@
 - JavaScript/TypeScript
 
 #### Projects & Publications 🔭 
-> Tools and workflows to boost developers' productivitiy in a collaborative team&community!
+> Tools and workflows to boost developers' productivity in a collaborative team & community!
 
-- **[SoManyConflicts]** (ASE'21): A VSCode extension to resolve multiple merge conflicts `interactively` and `systematically`.
-- **[Code2Graph]** (ICSME'21): A converter from source code to graph format that is `language-agnostic` and `extensible`.
-- **[SmartCommit]** (FSE'21): An assistant to cohesively commit changes for Java based on `partitioning on code-change-graph`.
-- **[IntelliMerge]** (OOPSLA'19): A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
-- **[CrowdJigsaw]** (ScienceChina'19): A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
+- **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
+- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `interactively` and `systematically`.
+- **[SmartCommit]**: An assistant to cohesively commit changes for Java based on `partitioning on code-change-graph`.
+- **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
+- **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
 
 [Code2Graph]: https://github.com/Symbolk/Code2Graph
 [SoManyConflicts]: https://github.com/Symbolk/somanyconflicts
