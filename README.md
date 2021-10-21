@@ -7,10 +7,10 @@
 #### Research Interests 🎓
 - Software Engineering **->** Program&Code Analysis **->** Code Change Control&Management in Collaborative SE
 - Programming Language Engineering **->** Domain Specific Language Design
-- Cloud Computing **->** Software & Project Architecture **->** LB, HA, HC, HP
-- AI & ML **->** Data/Learning-Driven Science **->** AI4SE & SE4AI **->** Code & Coding Intelligence
-- Graph **->** Graph Database & Algorithm **->** Network Analysis & Learning (GNN)
-- Human Computer Interaction **->** Developer-oriented Interaction & Feedback
+- Cloud Computing **->** Software&Project Architecture **->** LB, HA, HC, HP
+- AI&ML **->** Data/Learning-Driven Science **->** AI4SE&SE4AI **->** Code&Coding Intelligence
+- Graph **->** Graph Database&Algorithm **->** Network Analysis&Learning (GNN)
+- Human Computer Interaction **->** Developer-oriented Interaction&Feedback
 
 #### Technical Stack 💻
 
