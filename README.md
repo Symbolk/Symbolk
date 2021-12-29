@@ -28,8 +28,8 @@
 > Tools and workflows to boost developers' productivity in a collaborative team & community!
 
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
-- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `interactively` and `systematically`.
-- **[SmartCommit]**: An assistant to cohesively commit changes for Java based on `partitioning on code-change-graph`.
+- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
+- **[SmartCommit]**: An assistant for cohesive and conventional commits based on `code-change-graph partitioning`.
 - **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
 - **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
 
