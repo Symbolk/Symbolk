@@ -1,9 +1,9 @@
 ### Hi There 👋
 
 #### About Me 🤔 
-- Ph.D. of Computer Science, Peking University, PR China.
-- Towards a(n) (almost) full stack researcher & engineer.
-- Working to boost individuals' & teams' codility!
+- 996 ing...
+- Towards a(n) (almost) full stack researcher & engineer ~
+- Boost developers' individual & teamwork codility!
 
 #### Research Interests 🎓
 🌟🌟🌟🌟🌟 AI&ML **->** Data/Learning-Driven Tech **->** AI4SE & SE4AI **->** Code&Coding Intelligence
