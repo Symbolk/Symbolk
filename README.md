@@ -6,7 +6,7 @@
 #### Recent Interests 🎓
 > Remeber to Focus!
 
-🌟🌟🌟🌟🌟 AI&ML **->** AI4SE & SE4AI **->** Code&Coding Intelligence **->** **Large Language Model** for Developer teams!
+🌟🌟🌟🌟🌟 AI4SE & SE4AI **->** Code&Coding Intelligence **->** **Large Language Model** for Developer teams!
 
 🌟🌟🌟🌟🌟 Software Engineering **->** Program&Code Analysis **->** Collaborative SE!
 
