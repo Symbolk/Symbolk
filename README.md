@@ -3,23 +3,20 @@
 #### About Me 🤔 
 - AIGC (C for Code) is All You Need
 
-#### Research Interests 🎓
+#### Recent Interests 🎓
+> Remeber to Focus!
+
 🌟🌟🌟🌟🌟 AI&ML **->** AI4SE & SE4AI **->** Code&Coding Intelligence **->** **Large Language Model** for Developer teams!
 
-🌟🌟🌟🌟 Graph **->** Graph Database&Algorithm **->** Network Analysis&Learning (GNN)
+🌟🌟🌟🌟🌟 Software Engineering **->** Program&Code Analysis **->** Collaborative SE!
 
-🌟🌟🌟 Software Engineering **->** Program&Code Analysis **->** Code Change Control&Management in Collaborative SE
-
-🌟🌟 Programming Language Engineering **->** Domain Specific Language Design
-
-🌟 Cloud Computing **->** Software&Project Architecture **->** LB, HA, HC, HP
-
-🌙 Human Computer Interaction **->** Developer-oriented Interaction&Feedback
+🌟🌟🌟🌟🌟 Human Computer Interaction **->** Developer-devoted Interaction&Feedback Design!
 
 #### Technical Stack 💻
 
-- Java/Kotlin
-- Python/Go
+- Java
+- Python
+- Go
 - JavaScript/TypeScript
 
 #### Recent Projects 🔭 
