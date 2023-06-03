@@ -1,12 +1,10 @@
 ### Hi There 👋
 
 #### About Me 🤔 
-- 996 ing...
-- Towards a(n) (almost) full stack researcher & engineer ~
-- Boost developers' individual & teamwork codility!
+- AIGC (C for Code) is All You Need
 
 #### Research Interests 🎓
-🌟🌟🌟🌟🌟 AI&ML **->** Data/Learning-Driven Tech **->** AI4SE & SE4AI **->** Code&Coding Intelligence
+🌟🌟🌟🌟🌟 AI&ML **->** AI4SE & SE4AI **->** Code&Coding Intelligence **->** **Large Language Model** for Developer teams!
 
 🌟🌟🌟🌟 Graph **->** Graph Database&Algorithm **->** Network Analysis&Learning (GNN)
 
