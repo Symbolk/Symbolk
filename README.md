@@ -1,36 +1,22 @@
 ### Hi There 👋
 
-GitHub，我回来了！
+#### AIGC (C=Code&Content) is All You Need
 
-#### About Me 🤔 
-- AIGC (C for Code) is All You Need
+#### Working at 🌟
 
-#### Recent Interests 🎓
-> Remeber to Focus!
+- AI4SE & SE4AI **->** Code&Coding Intelligence **->** **LLM** for/as developer teams!
+- Software Engineering **->** Program&Code Analysis **->** Collaborative SE!
+- Human Computer Interaction **->** Developer-elegant Interaction&Feedback design!
 
-🌟🌟🌟🌟🌟 AI4SE & SE4AI **->** Code&Coding Intelligence **->** **Large Language Model** for Developer teams!
-
-🌟🌟🌟🌟🌟 Software Engineering **->** Program&Code Analysis **->** Collaborative SE!
-
-🌟🌟🌟🌟🌟 Human Computer Interaction **->** Developer-devoted Interaction&Feedback Design!
-
-#### Technical Stack 💻
-
-- Java
-- Python
-- Go
-- JavaScript/TypeScript
-
-#### Recent Projects 🔭 
-
-> Tools and workflows to boost developers' productivity in a collaborative team & community!
-
+#### Projects 🔭 
+- **[AI Coding in Live]**: A collection of ideas totally implemented by AI. Let's see how far it can go.
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
 - **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
 - **[SmartCommit]**: An assistant for cohesive and conventional commits based on `code-change-graph partitioning`.
 - **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
 - **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
 
+[AI Coding in Live]: https://github.com/Symbolk/aicoding.live
 [Code2Graph]: https://github.com/Symbolk/Code2Graph
 [SoManyConflicts]: https://github.com/Symbolk/somanyconflicts
 [IntelliMerge]: https://github.com/Symbolk/IntelliMerge
