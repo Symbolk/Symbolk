@@ -9,7 +9,7 @@
 - Human Computer Interaction **->** Developer-elegant Interaction&Feedback design!
 
 #### Projects 🔭 
-- **[AI Coding in Live]**: A collection of ideas totally implemented by AI. Let's see how far it can go.
+- **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
 - **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
 - **[SmartCommit]**: An assistant for cohesive and conventional commits based on `code-change-graph partitioning`.
