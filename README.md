@@ -9,6 +9,7 @@
 - Human Computer Interaction **->** Developer-elegant Interaction&Feedback design!
 
 #### Projects 🔭 
+- **[ChatEditor]**: Modify the web page just via chat, it feels like a PM standing beside a Coder.
 - **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
 - **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
@@ -16,6 +17,7 @@
 - **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
 - **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
 
+[ChatEditor]: https://github.com/Symbolk/ChatEditor
 [AI Coding in Live]: https://github.com/Symbolk/aicoding.live
 [Code2Graph]: https://github.com/Symbolk/Code2Graph
 [SoManyConflicts]: https://github.com/Symbolk/somanyconflicts
