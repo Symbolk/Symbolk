@@ -9,7 +9,7 @@
 - Human Computer Interaction **->** Developer-elegant Interaction&Feedback design!
 
 #### News! 📯
-- **[HarmonyOS-Emoji-Lock]**: Extremely interesting and interactive emoji games, inspired by the HarmonyOS Emoji Lockscreen.
+- **[HarmonyOS-Emoji-Lock]**: Extremely `interesting and interactive` emoji games, inspired by the HarmonyOS Emoji Lockscreen.
 - **[ChatEditor]**: Modify the web page `just by asking`, it feels like what a PM does when standing by a Coder.
 - **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
