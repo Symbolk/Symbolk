@@ -2,14 +2,15 @@
 
 #### AIGC (C=Code&Content) is All You Need
 
-#### Working at 🌟
+#### Topics! 🎲
 
 - AI4SE & SE4AI **->** Code&Coding Intelligence **->** **LLM** for/as developer teams!
 - Software Engineering **->** Program&Code Analysis **->** Collaborative SE!
 - Human Computer Interaction **->** Developer-elegant Interaction&Feedback design!
 
-#### Projects 🔭 
-- **[ChatEditor]**: Modify the web page just via chat, it feels like a PM standing beside a Coder.
+#### News! 📯
+- **[HarmonyOS-Emoji-Lock]**: Extremely interesting and interactive emoji games, inspired by the HarmonyOS Emoji Lockscreen.
+- **[ChatEditor]**: Modify the web page `just by asking`, it feels like what a PM does when standing by a Coder.
 - **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
 - **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
@@ -24,6 +25,7 @@
 [IntelliMerge]: https://github.com/Symbolk/IntelliMerge
 [SmartCommit]: https://github.com/Symbolk/SmartCommit
 [CrowdJigsaw]: https://github.com/Symbolk/CrowdJigsaw
+[HarmonyOS-Emoji-Lock]: https://github.com/Symbolk/HarmonyOS-Emoji-Lock
 
 ![](https://github.com/Symbolk/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Symbolk/github-stats/blob/master/generated/languages.svg)
