@@ -10,12 +10,12 @@
 
 #### Apps! 📯
 - **[HarmonyOS-Emoji-Lock]**: Extremely `interesting and interactive` emoji games, inspired by the HarmonyOS Emoji Lockscreen.
-- **[ChatEditor]**: Modify the web page `just by asking`, it feels like what a PM does when standing by a Coder.
+- **[ChatEditor]**: Modify the web page `just by wishing`, it feels like what a PM does when standing by a Coder.
 - **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
+- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
 
 #### Tools! 🛠️
 - **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
-- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
 - **[SmartCommit]**: An assistant for cohesive and conventional commits based on `code-change-graph partitioning`.
 - **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
 - **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
