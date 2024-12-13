@@ -2,11 +2,11 @@
 
 #### AIGC (C=Code&Content) is All You Need
 
-#### Topics! 🎲
+#### Keywords! 🎲
 
+- Aesthetics, Art, Design, and Human Computer Interaction **->** **Full Stack Developer**
 - AI4SE & SE4AI **->** Code&Coding Intelligence **->** **LLM** for/as developer teams!
-- Software Engineering **->** Program&Code Analysis **->** Collaborative SE!
-- Human Computer Interaction **->** Developer-elegant Interaction&Feedback design!
+- Software Engineering **->** Software&Program&Code Analysis with&for AI **->** **AI-Human** Collaboration!
 
 #### Apps! 📯
 - **[HarmonyOS-Emoji-Lock]**: Extremely `interesting and interactive` emoji games, inspired by the HarmonyOS Emoji Lockscreen.
