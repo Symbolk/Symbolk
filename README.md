@@ -9,8 +9,8 @@
 - Software Engineering **->** Software&Program&Code Analysis with&for AI **->** **AI-Human** Collaboration!
 
 #### Apps! 📯
-- **[HarmonyOS-Emoji-Lock]**: Extremely `interesting and interactive` emoji games, inspired by the HarmonyOS Emoji Lockscreen.
 - **[ChatEditor]**: Modify the web page `just by wishing`, it feels like what a PM does when standing by a Coder.
+- **[HarmonyOS-Emoji-Lock]**: Extremely `interesting and interactive` emoji games, inspired by the HarmonyOS Emoji Lockscreen.
 - **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
 - **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
 
