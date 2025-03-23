@@ -1,6 +1,4 @@
-### Hi There 👋
-
-#### AIGC (C=Code&Content) is All You Need
+### Have fun at [abab.ai](https://www.abab.ai/) to learn about me and my ideas!
 
 #### Keywords! 🎲
 
