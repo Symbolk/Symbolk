@@ -1,4 +1,5 @@
-### Have fun at [abab.ai](https://www.abab.ai/) to learn about me and my ideas!
+### Personal website: https://www.abab.ai/
+### Opensource Organization: https://github.com/ababdotai/
 
 #### Keywords! 🎲
 
