@@ -1,5 +1,5 @@
-### Personal website: https://www.abab.ai/
-### Opensource Organization: https://github.com/ababdotai/
+### Read me: https://www.abab.ai/
+### Read my project: https://github.com/ababdotai/
 
 #### Keywords! 🎲
 
