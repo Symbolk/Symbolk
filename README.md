@@ -1,14 +1,16 @@
 # Hi, I'm BoShen 👋
 
-**I build AI agents—and tools that make working with them feel natural.**
+**A curious mind, a playful soul, and more ideas than time.**
 
-Co-founder & CTO at [NovoOrdo](https://github.com/NovoOrdo), working on **AI agent harness engineering**. PhD in EECS, Peking University. I share my open-source work at [ABAB AI Lab](https://github.com/ababdotai).
+I work on **LLMs, AI Agents, and Software Engineering**. I love turning “what if?” into working software—and open-sourcing the useful, playful, and unexpected things along the way.
+
+PhD in EECS, Peking University. Most of my new experiments live at [ABAB AI Lab](https://github.com/ababdotai).
 
 [Website](https://www.abab.ai/) · [Projects](https://github.com/ababdotai) · [Recent repositories](https://github.com/orgs/ababdotai/repositories)
 
 ## What I'm focused on
 
-- **AI agents & harnesses:** tool use, agent workflows, and human–AI collaboration.
+- **LLMs & Agents:** tool use, agent workflows, and human–AI collaboration.
 - **AI-assisted coding:** making voice-driven and remote vibe coding practical.
 - **AI for learning:** turning videos and notes into knowledge people can revisit and use.
 
