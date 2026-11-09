@@ -1,45 +1,51 @@
-### Read me: https://www.abab.ai/
-### Read my project: https://github.com/ababdotai/
+# Hi, I'm BoShen 👋
 
-#### Keywords! 🎲
+**I build AI agents—and tools that make working with them feel natural.**
 
-- Aesthetics, Art, Design, and Human Computer Interaction **->** **Full Stack Developer**
-- AI4SE & SE4AI **->** Code&Coding Intelligence **->** **LLM** for/as developer teams!
-- Software Engineering **->** Software&Program&Code Analysis with&for AI **->** **AI-Human** Collaboration!
+Co-founder & CTO at [NovoOrdo](https://github.com/NovoOrdo), working on **AI agent harness engineering**. PhD in EECS, Peking University. I share my open-source work at [ABAB AI Lab](https://github.com/ababdotai).
 
-#### Apps! 📯
-- **[ChatEditor]**: Modify the web page `just by wishing`, it feels like what a PM does when standing by a Coder.
-- **[HarmonyOS-Emoji-Lock]**: Extremely `interesting and interactive` emoji games, inspired by the HarmonyOS Emoji Lockscreen.
-- **[AI Coding in Live]**: A collection of ideas `totally implemented by AI`. Let's see how far they can go.
-- **[SoManyConflicts]**: A VSCode extension to resolve multiple merge conflicts `systematically` and `interactively`.
+[Website](https://www.abab.ai/) · [Projects](https://github.com/ababdotai) · [Recent repositories](https://github.com/orgs/ababdotai/repositories)
 
-#### Tools! 🛠️
-- **[Code2Graph]**: A converter from source code to graph format that is `language-agnostic` and `extensible`.
-- **[SmartCommit]**: An assistant for cohesive and conventional commits based on `code-change-graph partitioning`.
-- **[IntelliMerge]**: A refined merging tool for Java: `graph-based`, `refactoring-aware`, and `semi-structured`.
-- **[CrowdJigsaw]**: A framework for collective problem solving (e.g., knowledge graph building): `collaboratively`.
+## What I'm focused on
 
-[ChatEditor]: https://github.com/Symbolk/ChatEditor
-[AI Coding in Live]: https://github.com/Symbolk/aicoding.live
-[Code2Graph]: https://github.com/Symbolk/Code2Graph
-[SoManyConflicts]: https://github.com/Symbolk/somanyconflicts
-[IntelliMerge]: https://github.com/Symbolk/IntelliMerge
-[SmartCommit]: https://github.com/Symbolk/SmartCommit
-[CrowdJigsaw]: https://github.com/Symbolk/CrowdJigsaw
-[HarmonyOS-Emoji-Lock]: https://github.com/Symbolk/HarmonyOS-Emoji-Lock
+- **AI agents & harnesses:** tool use, agent workflows, and human–AI collaboration.
+- **AI-assisted coding:** making voice-driven and remote vibe coding practical.
+- **AI for learning:** turning videos and notes into knowledge people can revisit and use.
 
-![](https://github.com/Symbolk/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Symbolk/github-stats/blob/master/generated/languages.svg)
+## What I'm building lately
 
-<!--
-**Symbolk/Symbolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Updated November 2026.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it's for | Recent work |
+| --- | --- | --- |
+| **[Kairos](https://github.com/ababdotai/Kairos)** | An AI companion for taking notes while watching videos. | AI note refinement, summaries, shareable pages, and support for more learning platforms. |
+| **[macos-mic-keepalive](https://github.com/ababdotai/macos-mic-keepalive)** | Keep a Bluetooth mic ready for spoken prompts to coding agents. | [v1.3.0](https://github.com/ababdotai/macos-mic-keepalive/releases/tag/v1.3.0): sleep/reconnect recovery, optional login startup, and live input levels. |
+| **[FoldableKeyboard](https://github.com/ababdotai/FoldableKeyboard)** | Desktop-style keys on a foldable phone for remote vibe coding. | My fork of [pcKeyboard](https://github.com/9hm2/pcKeyboard), with remote Mac/Windows layouts and a UU Remote overlay. |
+
+## More AI experiments
+
+- **[awesome-agent-quickstart](https://github.com/ababdotai/awesome-agent-quickstart)** — Small, runnable examples for exploring agent frameworks and tools.
+- **[AlitaOpen](https://github.com/ababdotai/AlitaOpen)** — Exploring agents that generate and refine their own Python tools.
+- **[generative_gui](https://github.com/ababdotai/generative_gui)** — Agent responses that combine conversation with interactive UI.
+
+I'm interested in **AI4SE and SE4AI**: using AI to build software, and using software engineering to make AI systems more useful and dependable.
+
+<details>
+<summary><strong>Earlier work · software engineering & developer tools</strong></summary>
+
+- [Code2Graph](https://github.com/Symbolk/Code2Graph) — A shared graph representation for multilingual source code.
+- [SmartCommit](https://github.com/Symbolk/SmartCommit) — Organizing code changes into cohesive commits.
+- [IntelliMerge](https://github.com/Symbolk/IntelliMerge) — Refactoring-aware, graph-based Java merging.
+- [SoManyConflicts](https://github.com/Symbolk/somanyconflicts) — Interactive merge-conflict resolution in VS Code.
+- [CrowdJigsaw](https://github.com/Symbolk/CrowdJigsaw) — Collective problem solving.
+- Earlier app experiments: [ChatEditor](https://github.com/Symbolk/ChatEditor), [AI Coding in Live](https://github.com/Symbolk/aicoding.live), and [HarmonyOS Emoji Lock](https://github.com/Symbolk/HarmonyOS-Emoji-Lock).
+
+</details>
+
+<details>
+<summary><strong>GitHub stats</strong></summary>
+
+![GitHub activity overview](https://github.com/Symbolk/github-stats/blob/master/generated/overview.svg)
+![Languages](https://github.com/Symbolk/github-stats/blob/master/generated/languages.svg)
+
+</details>
