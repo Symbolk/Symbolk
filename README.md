@@ -16,13 +16,14 @@ Most of my new experiments live at [ABAB AI Lab](https://github.com/ababdotai).
 
 ## What I'm building lately
 
-*Updated November 2026.*
+*Updated November 25, 2026.*
 
-| Project | What it's for | Recent work |
-| --- | --- | --- |
-| **[Kairos](https://github.com/ababdotai/Kairos)** | An AI companion for taking notes while watching videos. | AI note refinement, summaries, shareable pages, and support for more learning platforms. |
-| **[macos-mic-keepalive](https://github.com/ababdotai/macos-mic-keepalive)** | Keep a Bluetooth mic ready for spoken prompts to coding agents. | [v1.3.0](https://github.com/ababdotai/macos-mic-keepalive/releases/tag/v1.3.0): sleep/reconnect recovery, optional login startup, and live input levels. |
-| **[FoldableKeyboard](https://github.com/ababdotai/FoldableKeyboard)** | Desktop-style keys on a foldable phone for remote vibe coding. | My fork of [pcKeyboard](https://github.com/9hm2/pcKeyboard), with remote Mac/Windows layouts and a UU Remote overlay. |
+| Logo | Project | What it's for | Recent update |
+| :---: | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/ababdotai/Laundry/main/screenshots/wash-cycle.gif" width="48" height="48" alt="Laundry logo" /> | **[Laundry](https://github.com/ababdotai/Laundry)** | On-device AI to redact private details before sharing files. | [Nov 25](https://github.com/ababdotai/Laundry/commit/8719e930661c44072926c5312083de688779dbca) · Bilingual review, model onboarding, and output checks. |
+| <img src="https://raw.githubusercontent.com/ababdotai/KeepMicAlive/main/assets/logo.png" width="48" height="48" alt="KeepMicAlive logo" /> | **[KeepMicAlive](https://github.com/ababdotai/KeepMicAlive)** | Keep your mic ready and boost quiet spoken prompts. | [v1.5.1 · Nov 25](https://github.com/ababdotai/KeepMicAlive/releases/tag/v1.5.1) · New name, whisper boost, and AirPods / BlackHole routing fixes. |
+| <img src="https://raw.githubusercontent.com/ababdotai/FoldableKeyboard/main/public/icons/icon.png" width="48" height="48" alt="FoldableKeyboard logo" /> | **[FoldableKeyboard](https://github.com/ababdotai/FoldableKeyboard)** | Desktop-style keys for remote vibe coding on foldable phones; a [pcKeyboard](https://github.com/9hm2/pcKeyboard) fork. | [Oct 4](https://github.com/ababdotai/FoldableKeyboard/commit/d5a73c48cad8ceed69dadeedd0d6ffc2fea9e556) · Refreshed branding, overlay docking, and system themes. |
+| <img src="https://raw.githubusercontent.com/ababdotai/Kairos/main/public/icons/icon128.png" width="48" height="48" alt="Kairos logo" /> | **[Kairos](https://github.com/ababdotai/Kairos)** | An AI companion for video notes and learning. | [Nov 10](https://github.com/ababdotai/Kairos/commit/6289affa20322f029c39418df7ff5ce05ce0705f) · Course-note drawer improvements and save / replay fixes. |
 
 ## More interesting stuff
 
